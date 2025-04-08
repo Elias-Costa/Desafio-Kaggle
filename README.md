@@ -22,4 +22,4 @@ O 'trainloader_MNIST' é mais rico, possui mais imagens e utiliza data augmentat
 
 ## Rodando o código
 
-Para rodar o código basta executar main.py. Serão exibidas acurácias no terminal, sendo elas a partir do próprio conjunto de treino e outra com um conjunto de teste de 10 mil imagens disponibilizado pela torchvision. No fim, o arquivo de submissão será criado, rotulando as 28 mil imagens de teste que o desafio pede.
+Para rodar o código basta executar main.py. Serão exibidas acurácias no terminal, sendo elas a partir do próprio conjunto de treino e a partir do conjunto de teste de 10 mil imagens disponibilizado pela torchvision. No fim, o arquivo de submissão será criado, rotulando as 28 mil imagens de teste que o desafio pede.
